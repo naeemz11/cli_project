@@ -33,23 +33,7 @@ class Article
         puts "#{article.content}"
 
         
-        # puts "Would you like to view the full article in the browser?"
-        # puts "1." + "Yes"
-        # puts "2." + "No"
-
-        # input = gets.chomp
-        # index = input.to_i - 1
         
-        # if !index.between?(0,1)
-        #     puts "Please select 1 or 2".red
-        #     #self.display_article(index)
-        #      index
-        # else    
-        #     index == 0 
-        #     binding.pry
-        #     Launchy.open("#{article.url}")  
-        #     end 
-         
            
               
     
